@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Azhar
 
-<!--
-**azhar-paraouty/azhar-paraouty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Year 2 Information Systems student  
+📊 Aspiring Data Analyst / Consultant  
+🤖 Interested in analytics, automation, and business systems  
 
-Here are some ideas to get you started:
+### 🔍 What I do
+- Data analysis with Python & Excel
+- Business-oriented insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- [Supermarket Sales & Profit Analysis](https://github.com/azhar-paraouty/supermarket-sales-analysis)
+
+📍 Mauritius
+
+## Last Updated: January 2026
