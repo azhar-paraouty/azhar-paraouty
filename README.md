@@ -1,11 +1,13 @@
-# Paraouty Azhar
-Year 3 BSc (Hons) Information Systems Student
+## Hey there 👋
+BSc (Hons) Information Systems Student
 
-University of Mauritius
+🎓 University of Mauritius
+
+Year 3 
 
 ---
 
-## About Me
+## 👤 About Me
 * My interests include :
   - Software Engineering
   - Business Systems
