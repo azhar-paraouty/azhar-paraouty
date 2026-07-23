@@ -46,7 +46,7 @@ HTML • CSS • JS • PHP • MySQL
 - Requirements definition, wireframing, Frontend development and Backend integration with Database.
 - Currently under active development!
 
-**4. Arduino Starter**
+**4. [Arduino Electronics Journey](https://github.com/azhar-paraouty/arduino-electronics-journey)**
 
 Breadboard • Relays • Arduino C++
 
